@@ -10,19 +10,3 @@
 # Dataset Notes
 
 todo
-
-# Data Dictionary
-
-## `deficiencies`
-
-## `ownerships`
-
-## `penalties`
-
-## `providers`
-
-## `quality_ratings`
-
-## `state_summaries`
-
-## `survey_averages`
