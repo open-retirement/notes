@@ -1,6 +1,7 @@
 # Providers
 
 Variable Name (column headers on ACCESS tables and CSV Downloadable files)	|	Label (column headers on CSV Display files)	|	Description	|	Format / Values	|	On CSV Display File	|	On CSV Download File	|	On Access Table
+--- | --- | --- | --- | --- | --- | ---
 PROVNUM	|	Federal Provider Number	|	Federal Provider Number	|	6 alphanumeric characters	|	Yes	|	Yes	|	Yes
 PROVNAME	|	Provider Name	|	Provider Name	|	text	|	Yes	|	Yes	|	Yes
 ADDRESS	|	Provider Address	|	Provider Address	|	text	|	Yes	|	Yes	|	Yes
